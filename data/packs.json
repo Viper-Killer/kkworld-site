@@ -1,0 +1,42 @@
+{
+  "updated": "2026-11-07",
+  "packs": [
+    {
+      "slug": "all-the-mods-9-atm9-all-the-mods-9-1-1-1",
+      "title": "Across the Multiverse",
+      "tag": "Forge 1.20.1",
+      "mods": 459,
+      "sizeMb": 1400,
+      "version": 8,
+      "cover": "assets/atm9.jpg",
+      "video": "assets/atm9.mp4",
+      "news": [
+        {
+          "date": "07.11.2026",
+          "version": 8,
+          "text": "Серебро, никель, алюминий, платина, иридий и самоцветы ATM убраны из первого мира (в уже созданных чанках останутся). Глава Бесконечность перестроена: верстаки и материалы идут строго по порядку, у уровней есть ветки оружия, инструментов и брони."
+        }
+      ]
+    },
+    {
+      "slug": "biohazard-project-genesis-biohazard-public-beta-0-4",
+      "title": "Biohazard Project Genesis",
+      "tag": "Forge 1.20.1",
+      "mods": 480,
+      "sizeMb": 1518,
+      "version": 2,
+      "cover": "assets/biohazard.jpg",
+      "news": []
+    },
+    {
+      "slug": "journey-to-dawn-ru-journey-to-dawn-1-1-1",
+      "title": "Journey to Dawn",
+      "tag": "Forge 1.19.2",
+      "mods": 226,
+      "sizeMb": 1172,
+      "version": 1,
+      "cover": "assets/journey-to-dawn.jpg",
+      "news": []
+    }
+  ]
+}

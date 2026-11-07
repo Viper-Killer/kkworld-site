@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KKworld</title>
+<meta name="description" content="KKworld — лаунчер для друзей, который раздаёт сборки Minecraft.">
+<meta name="theme-color" content="#0B0D14">
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Unbounded:wght@700;800&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+<a class="skip-link" href="#main">К содержимому</a>
+<header id="site-header"></header>
+<main id="main">
+<noscript><p class="state">Для работы сайта нужен JavaScript.</p></noscript>
+<section class="hero">
+  <div class="hero-media">
+    <video id="hero-video" data-src="assets/atm9.mp4" poster="assets/atm9.jpg" muted autoplay loop playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
+  </div>
+  <div class="hero-grid">
+    <div class="about">
+      <p class="eyebrow">О проекте</p>
+      <h1>KKworld —<br>лаунчер <span class="grad nowrap">для друзей</span></h1>
+      <p>Раздаёт сборки Minecraft: выбираешь сборку и играешь.</p>
+      <div class="pills"><span class="pill" id="pack-count" hidden></span></div>
+    </div>
+    <div class="play"><a class="btn-play" href="start.html">Начать играть</a></div>
+    <aside class="latest" id="latest" aria-label="Последнее обновление">
+      <p class="latest-label">Последнее обновление</p>
+    </aside>
+  </div>
+</section>
+</main>
+<footer id="site-footer"></footer>
+<script src="js/site.js"></script>
+</body>
+</html>
