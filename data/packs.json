@@ -5,12 +5,17 @@
       "slug": "all-the-mods-9-atm9-all-the-mods-9-1-1-1",
       "title": "Across the Multiverse",
       "tag": "Forge 1.20.1",
-      "mods": 461,
+      "mods": 460,
       "sizeMb": 1400,
-      "version": 10,
+      "version": 11,
       "cover": "assets/atm9.jpg",
       "video": "assets/atm9.mp4",
       "news": [
+        {
+          "date": "08.11.2026",
+          "version": 11,
+          "text": "Мир, открытый для сети, теперь пускает друзей без лицензии: проверка аккаунтов Mojang отключена встроенным исправлением. Мод EasyLAN убран, он не применял настройки."
+        },
         {
           "date": "08.11.2026",
           "version": 10,
