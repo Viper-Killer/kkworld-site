@@ -7,10 +7,15 @@
       "tag": "Forge 1.20.1",
       "mods": 460,
       "sizeMb": 1400,
-      "version": 11,
+      "version": 12,
       "cover": "assets/atm9.jpg",
       "video": "assets/atm9.mp4",
       "news": [
+        {
+          "date": "08.11.2026",
+          "version": 12,
+          "text": "Квесты Мультивселенной объясняют, зачем нужны устройства Rick's Stuff и Kib's Additions и как их запустить. F11 теперь включает полноэкранное окно без рамки, Alt+Tab без мигания."
+        },
         {
           "date": "08.11.2026",
           "version": 11,
