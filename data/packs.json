@@ -1,16 +1,21 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "packs": [
     {
       "slug": "all-the-mods-9-atm9-all-the-mods-9-1-1-1",
       "title": "Across the Multiverse",
       "tag": "Forge 1.20.1",
-      "mods": 460,
+      "mods": 461,
       "sizeMb": 1400,
-      "version": 9,
+      "version": 10,
       "cover": "assets/atm9.jpg",
       "video": "assets/atm9.mp4",
       "news": [
+        {
+          "date": "08.11.2026",
+          "version": 10,
+          "text": "Добавлен мод EasyLAN: при открытии мира для сети можно выключить онлайн-режим, и друзья без лицензии смогут подключиться."
+        },
         {
           "date": "07.11.2026",
           "version": 9,
