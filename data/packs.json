@@ -1,16 +1,21 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-14",
   "packs": [
     {
       "slug": "all-the-mods-9-atm9-all-the-mods-9-1-1-1",
       "title": "Across the Multiverse",
       "tag": "Forge 1.20.1",
-      "mods": 460,
+      "mods": 461,
       "sizeMb": 1400,
-      "version": 14,
+      "version": 15,
       "cover": "assets/atm9.jpg",
       "video": "assets/atm9.mp4",
       "news": [
+        {
+          "date": "14.11.2026",
+          "version": 15,
+          "text": "KKmagic 0.5.3: магическая оранжерея-мультиблок (единая модель после постройки, искра ставится сверху, 6 слотов улучшений, новые иконки улучшений)"
+        },
         {
           "date": "10.11.2026",
           "version": 14,
